@@ -1,0 +1,3 @@
+rchive: homework03.zip
+test_cases:
+- {in: homework03.1.in, out: homework03.1.out, points: 100}
