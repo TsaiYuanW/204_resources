@@ -1,3 +1,5 @@
-rchive: homework06.zip
+archive: homework06.zip
 test_cases:
-- {in: homework06.1.in, out: homework06.1.out, points: 100}
+- in: homework06.1.out
+  out: homework06.1.out
+  points: 100
