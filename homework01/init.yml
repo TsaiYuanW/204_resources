@@ -1,0 +1,3 @@
+archive: homework01.zip
+test_cases:
+- {in: homework.1.in, out: homework.1.out, points: 100}
