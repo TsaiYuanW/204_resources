@@ -1,5 +1,0 @@
-archive: homework01.zip
-test_cases:
-- in: homework01.1.in
-  out: homework01.1.out
-  points: 100
